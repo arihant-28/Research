@@ -1,0 +1,65 @@
+joyau   bijou   3.22	gem	jewel	3.94
+midi    dîner   2.17	midday	dinner	3.94	midday	lunch
+automobile      auto    3.94	automobile	car	3.92
+cimetière       cimetière       4.00	cemetery	graveyard	3.88	cemetery	cemetery	
+coussin oreiller        3.00	cushion	pillow	3.84
+garçon  gars    3.83	boy	lad	3.82
+coq     coq     4.00	cock	rooster	3.68	cock	cock
+instrument      outil   3.00	implement	tool	3.66
+forêt   bois    3.72	forest	woodland	3.65
+côte    rivage  2.50	coast	shore	3.60
+autographe      signature       3.56	autograph	signature	3.59
+voyage  périple 2.59	journey	voyage	3.58
+serf    esclave 1.89	serf	slave	3.46
+grimace sourire 1.50	grin	smile	3.46
+verre   goblet  3.39	glass	tumbler	3.45
+corde   ficelle 3.33	cord	string	3.41
+colline monticule       2.94	hill	mound	3.29
+magicien        sorcier 2.67	magician	wizard	3.21
+fournaise       four    2.78	furnace	stove	3.11
+refuge  asile   3.28	asylum	madhouse	3.04
+frère   moine   2.89	brother	monk	2.74
+nourriture      fruit   2.78	food	fruit	2.69
+oiseau  coq     2.41	bird	cock	2.63
+oiseau  grue    1.65	bird	crane	2.63
+oracle  sage    1.28	oracle	sage	2.61
+sage    sorcier 0.83	sage	wizard	2.46
+frère   gars    2.00	brother	lad	2.41
+grue    instrument      0.94	crane	implement	2.37
+magicien        oracle  0.56	magician	oracle	1.82
+verre   bijou   0.56	glass	jewel	1.78
+cimetière       monticule       0.22	cemetery	mound	1.69
+auto    voyage  0.33	car	journey	1.55
+colline bois    0.44	hill	woodland	1.48
+grue    coq     0.28	crane	rooster	1.41
+fournaise       instrument      0.56	furnace	implement	1.37
+côte    colline 2.17	coast	hill	1.26
+oiseau  bois    0.06	bird	woodland	1.24
+rivage  trip    0.28	shore	voyage	1.22
+cimetière       bois    0.11	cemetery	woodland	1.18
+nourriture      coq     0.61	food	rooster	1.09
+forêt   cimetière       0.17	forest	graveyard	1.00
+gars    sorcier 0.44	lad	wizard	0.99
+monticule       rivage  0.17	mound	shore	0.97
+automobile      coussin 0.06	automobile	cushion	0.97
+garçon  sage    0.29	boy	sage	0.96
+moine   oracle  0.39	monk	oracle	0.91
+rivage  bois    0.33	shore	woodland	0.90
+grimace gars    0.11	grin	lad	0.88
+côte    forêt   0.22	coast	forest	0.85
+refuge  cimetière       0.50	asylum	cemetery	0.79	refuge	cemetery
+moine   esclave 0.17	monk	slave	0.57
+coussin bijou   0.17	cushion	jewel	0.45
+garçon  coq     0.44	boy	rooster	0.44
+verre   magicien        0.06	glass	magician	0.44
+cimetière       asylum  0.22	graveyard	madhouse	0.44	graveyard	asylum
+refuge  moine   0.22	asylum	monk	0.39	refuge	monk
+refuge  fruit   0.00	asylum	fruit	0.19
+grimace instrument      0.00	grin	implement	1.18
+monticule       four    0.06	mound	stove	0.14
+automobile      sorcier 0.00	automobile	wizard	0.11
+autographe      rivage  0.00	autograph	shore	0.06
+fruit   fournaise       0.11	fruit	furnace	0.05
+midi    ficelle 0.00	noon	string	0.04
+coq     périple 0.06	rooster voyage  0.04
+corde   sourire 0.00	cord	smile	0.02
